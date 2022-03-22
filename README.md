@@ -23,22 +23,22 @@ An ETL was performed on the dataset and a Postgres database was utilized to hous
 ### How many Vine reviews and non-Vine reviews were there?
 There were a total of 94 paid vine review and 40,471 unpaid non-Vine reviews from a review total of 40,565
 
-![Total vine reviews](./images/)
+![Total vine reviews](./images/total_vine_reviews)
 
-![Total non-vine reviews](./images/)
+![Total non-vine reviews](./images/total_non_vine_reviews)
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 Of the 94 Vine reviews there were a total of 48 that were rated at 5-stars. Of the 40,471 non-Vine reviewes there were 15,663 5-star reviews.
 
-![Total 5-star vine reviews](./images/)
+![Total 5-star vine reviews](./images/total_5star_vine_reviews)
 
-![Total 5-star non-vine reviews](./images/)
+![Total 5-star non-vine reviews](./images/total_5star_non_vine_reviews)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 The percentage of paid 5-star Vine reviews was 51.06%, while the percentage of unpaid non-vine reviews was 38.70%.
 
-![% 5-star vine reviews](./images/)
+![% 5-star vine reviews](./images/percent_5star_vine_reviews)
 
-![% 5-star non-vine reviews](./images/)
+![% 5-star non-vine reviews](./images/percent_5star_non_vine_reviews)
 
 ## Summary
