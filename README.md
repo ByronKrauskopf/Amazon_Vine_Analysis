@@ -16,7 +16,7 @@ An ETL was performed on the dataset and a Postgres database was utilized to hous
 
 [Review ID Table](https://github.com/ByronKrauskopf/Amazon_Vine_Analysis/blob/main/images/review_id_table.PNG)
 
-[Vine Table](https://github.com/ByronKrauskopf/Amazon_Vine_Analysis/blob/main/images/review_id_table.PNG)
+[Vine Table](https://github.com/ByronKrauskopf/Amazon_Vine_Analysis/blob/main/images/vine_table.PNG)
 
 ## Results
 
